@@ -8,5 +8,5 @@
 
 这是训练用的三张图片以及训练过程
 <img width="2057" height="1277" alt="屏幕截图 2026-01-28 185622" src="https://github.com/user-attachments/assets/41bd0486-54f8-44b5-81f6-a3f13a15e5cb" />
-这个是训练结果
+训练好的结果保存在这个文件夹中
 <img width="1662" height="1036" alt="image" src="https://github.com/user-attachments/assets/8a1a49c1-9415-4d83-b8a9-e6830efb6b18" />
