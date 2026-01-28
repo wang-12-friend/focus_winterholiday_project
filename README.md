@@ -14,3 +14,4 @@
 训练好的结果保存在这个文件夹中
 <img width="1662" height="1036" alt="image" src="https://github.com/user-attachments/assets/8a1a49c1-9415-4d83-b8a9-e6830efb6b18" />
 用自己训练的模型实验了一下效果,效果很烂，数据量太小了。
+这个是官方模型的识别效果![test](https://github.com/user-attachments/assets/cf5736fb-6900-4686-a085-9d4487766219)
